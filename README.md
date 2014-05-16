@@ -6,11 +6,11 @@ share some md info such as websites
 
 ### website
 
-+  [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)
-+  [markdown target="_blank"](http://stackoverflow.com/questions/4425198/markdown-target-blank)
-+  [markdown在线编辑器](http://mahua.jser.me/)
-+  [马克飞象 - 专为印象笔记打造的Markdown编辑器](http://maxiang.info/)
-
++ [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)
++ [markdown target="_blank"](http://stackoverflow.com/questions/4425198/markdown-target-blank)
++ [markdown在线编辑器](http://mahua.jser.me/)
++ [马克飞象 - 专为印象笔记打造的Markdown编辑器](http://maxiang.info/)
++ [78 款 Markdown 工具](http://segmentfault.com/a/1190000000506986)
 
 ### html2md的转换工具：
 
