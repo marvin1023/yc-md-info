@@ -17,7 +17,13 @@ share some md info such as websites
 * [在线来自atool](http://www.atool.org/html2markdown.php)
 * [在线来自to-markdownJS](http://domchristie.github.io/to-markdown/)
 
+###常用快捷键
 
+- **粗体** (`Ctrl+B`) and *斜体* (`Ctrl+I`)
+- 引用 (`Ctrl+Q`)
+- 代码块 (`Ctrl+K`)
+- 标题 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
+- 列表 (`Ctrl+U` and `Ctrl+Shift+O`)
 
 #### 如何写邮件地址?
 
